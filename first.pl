@@ -12,7 +12,7 @@ my $ll = "Some words of text that we shall manipulate";
 
 print "$a"." "."\uteams in the \UNFL\n";
 print "$b[2] \n";
-print "$#b \n \n";
+
 
 my @onetoten = (1 .. 10);
 my $toplimit = 25;
